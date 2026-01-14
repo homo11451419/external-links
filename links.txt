@@ -1,16 +1,17 @@
 # internal - Internal domains (usually empty, user-specific)
-*linux.do
+
 
 # trusted - Trusted external domains
 *.zhile.io
 *.fuclaude.com
 *.linuxdo.org
 *.deeplx.org
-*.idcflare.com
 *.oaifree.com
 *.oaipro.com
 *.uasm.com
 t.me/linux_do_channel
+t.me/idcflare
+t.me/ja_netfilter_group
 github.com/linux-do/*
 
 # risky - Potentially risky domains (URL shorteners, etc.)
